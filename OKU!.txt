@@ -1,0 +1,5 @@
+Gerekli Modülleri yüklemeyi unutmayı aksi taktirde botunuz çalışmaz!
+
+Şuan tek gereken modül @discord.js
+
+Discord : Mérlin#1543 "bir sorun olursa buradan bana ulaşabilirsiniz"
